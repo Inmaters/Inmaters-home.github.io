@@ -350,7 +350,13 @@ h1 {
 	color: #929292
 	
 }
-.itwhyour img {
+.it1 img {
+	display: block;
+	margin-right: 10px;
+	height: 100%;
+	
+}
+.why1 img {
 	display: block;
 	margin-right: 10px;
 	height: 50%;
